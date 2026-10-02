@@ -40,7 +40,7 @@ export default function Hero() {
 
           <motion.h1
             variants={item}
-            className="font-display text-[13vw] font-bold leading-[0.92] tracking-tight text-ink sm:text-7xl lg:text-8xl"
+            className="font-display text-[13vw] font-extrabold leading-[0.92] tracking-tighter text-ink sm:text-7xl lg:text-8xl"
           >
             KARTIKEYAN
             <br />
