@@ -168,4 +168,4 @@ kartikeyansharma-portfolio/
 - Respects `prefers-reduced-motion`: the intro sequence, hero parallax and drifting animations are skipped/disabled for users who request reduced motion.
 - The custom cursor is disabled on touch devices and only activates on fine-pointer (mouse/trackpad) input.
 - Visible keyboard focus rings are included on interactive elements (`focus-ring` utility).
-- No fabricated statistics, awards, or achievements are included anywhere — the Engineering Dashboard shows real, editable status fields instead of invented numbers.
+- No fabricated statistics, awards, or achievements are included anywhere — the Engineering Dashboard shows real, editable status fields instead of invented numbers.ffff
